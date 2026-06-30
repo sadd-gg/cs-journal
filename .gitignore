@@ -1,0 +1,11 @@
+# Rust build output
+target/
+
+# Editor configs
+.vscode/
+.idea/
+rust.code-workspace
+
+# OS junk
+.DS_Store
+
