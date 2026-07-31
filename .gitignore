@@ -1,0 +1,11 @@
+# Rust build output
+target/
+
+# compiled binaries
+main
+*.exe
+*.out
+
+# editor stuff
+*.code-workspace
+.vscode/
