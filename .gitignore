@@ -1,0 +1,19 @@
+# Rust native binaries (no cargo)
+/rust/hello_world
+
+# Rust build output
+**/target/
+
+# Compiled binaries
+*.exe
+*.out
+
+# Local binaries
+main
+
+# Editor files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
